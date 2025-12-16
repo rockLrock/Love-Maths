@@ -17,8 +17,7 @@ document.addEventListener("DOMContentLoaded", function() {
         }
     });
 
-    runGame("addition");
-    runGame("multiply");
+    
 });
 
 /**
